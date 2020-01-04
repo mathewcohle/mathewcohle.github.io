@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mathew Cohle</title>
+    <title>Posts on Mathew Cohle</title>
     <link>https://mathewcohle.github.io/posts/</link>
-    <description>Recent content on Mathew Cohle</description>
+    <description>Recent content in Posts on Mathew Cohle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Wed, 01 Jan 2020 14:04:04 +0100</lastBuildDate>
     
 	<atom:link href="https://mathewcohle.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
